@@ -225,7 +225,7 @@ msgstr "Borrar elemento"
 
 #: templates/lfs/cart/cart_inline.html:178
 msgid "Country"
-msgstr "Ciudad"
+msgstr "País"
 
 #: templates/lfs/cart/cart_inline.html:199
 #: templates/lfs/checkout/checkout_cart_inline.html:147
@@ -565,7 +565,7 @@ msgid ""
 "addresses, email address and your password."
 msgstr ""
 "Bienvenido a tu cuenta. Aquí podrás encontrar tus órdenes de compra, "
-"administrar tus direcciones, email y tu contraseña."
+"administrar tus direcciones, editar tu email y tu contraseña."
 
 #: templates/lfs/customer/addresses.html:6
 msgid "My Addresses"
@@ -609,11 +609,11 @@ msgstr "Cambiar contraseña"
 
 #: templates/lfs/customer/base.html:20
 msgid "Change e-mail"
-msgstr "Cambiar e-mail"
+msgstr "Editar e-mail"
 
 #: templates/lfs/customer/base.html:23
 msgid "Change addresses"
-msgstr "Cambiar direcciones"
+msgstr "Editar direcciones"
 
 #: templates/lfs/customer/data.html:6
 msgid "Your Data"
