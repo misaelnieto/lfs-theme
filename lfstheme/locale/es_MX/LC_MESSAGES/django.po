@@ -192,7 +192,7 @@ msgstr "Precio neto"
 #: templates/lfs/cart/cart_inline.html:41
 #: templates/lfs/checkout/checkout_cart_inline.html:34
 msgid "VAT"
-msgstr "IVA"
+msgstr "I.V.A."
 
 #: templates/lfs/cart/cart.html:6 templates/lfs/cart/cart.html.py:12
 #: templates/lfs/portlets/cart.html:10 templates/lfs/portlets/cart.html:13
@@ -266,7 +266,7 @@ msgstr "Tu carrito de compras está vacio"
 #: templates/registration/password_reset_done.html:9
 #: templates/registration/password_reset_form.html:11
 msgid "You are here:"
-msgstr "Tu estás aquí:"
+msgstr "Estás aquí:"
 
 #: templates/lfs/catalog/breadcrumbs.html:6 templates/lfs/shop/menu.html:3
 #: templates/lfs/shop/shop.html:17 templates/lfs/shop/tabs.html:7
@@ -356,7 +356,7 @@ msgstr "Comenzando en"
 #: templates/lfs/portlets/forsale.html:51
 #: templates/lfs/search/search_results.html:90
 msgid "*inc. VAT"
-msgstr "*Incluyendo IVA"
+msgstr "*Incluyendo I.V.A."
 
 #: templates/lfs/catalog/categories/product/default.html:68
 #: templates/lfs/catalog/products/product_inline.html:76
@@ -367,7 +367,7 @@ msgstr "*Incluyendo IVA"
 #: templates/lfs/portlets/forsale.html:23
 #: templates/lfs/portlets/forsale.html:53
 msgid "*exc. VAT"
-msgstr "*IVA no incluido"
+msgstr "*I.V.A. no incluido"
 
 #: templates/lfs/catalog/categories/product/products_navigation.html:6
 msgid "First page"
@@ -587,7 +587,7 @@ msgstr "Dirección de facturación"
 #: templates/lfs/customer/addresses.html:36
 #: templates/lfs/customer/data.html:39
 msgid "Shipping Address"
-msgstr "Dirección de envio"
+msgstr "Dirección de envío"
 
 #: templates/lfs/customer/addresses.html:51
 #: templates/lfs/customer/data.html:65
