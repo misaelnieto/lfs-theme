@@ -849,7 +849,7 @@ msgstr "No enviable"
 #: templates/lfs/portlets/delivery_time.html:18
 #: templates/lfs/shipping/shipping_tag.html:7
 msgid "Delivery time"
-msgstr "Tiempo de envío"
+msgstr "Tiempo de entrega"
 
 #: templates/lfs/portlets/filter.html:69 templates/lfs/portlets/filter.html:74
 msgid "Up to"
