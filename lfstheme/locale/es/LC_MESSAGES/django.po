@@ -591,7 +591,7 @@ msgstr "Cambiar e-mail"
 
 #: templates/lfs/customer/base.html:23
 msgid "Change addresses"
-msgstr "Cambiar direccinoes"
+msgstr "Cambiar direcciones"
 
 #: templates/lfs/customer/data.html:6
 msgid "Your Data"
